@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.exe
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.deps.json
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.runtimeconfig.json
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.dll
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\bin\Debug\netcoreapp3.1\FirstReserveTeam.pdb
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.dll
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.pdb
+C:\Users\Studerande\source\repos\Encapsulation\FirstReserveTeam\obj\Debug\netcoreapp3.1\FirstReserveTeam.genruntimeconfig.cache

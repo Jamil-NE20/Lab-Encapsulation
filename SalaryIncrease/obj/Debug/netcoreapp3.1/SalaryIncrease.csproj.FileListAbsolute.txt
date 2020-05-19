@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.exe
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.deps.json
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.json
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.dll
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.pdb
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.dll
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.pdb
+C:\Users\Studerande\source\repos\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.genruntimeconfig.cache

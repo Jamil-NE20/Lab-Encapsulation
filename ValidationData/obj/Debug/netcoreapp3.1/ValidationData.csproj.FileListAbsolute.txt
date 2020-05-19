@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.exe
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.deps.json
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.runtimeconfig.json
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.dll
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\bin\Debug\netcoreapp3.1\ValidationData.pdb
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.dll
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.pdb
+C:\Users\Studerande\source\repos\Encapsulation\ValidationData\obj\Debug\netcoreapp3.1\ValidationData.genruntimeconfig.cache
